@@ -1,0 +1,1 @@
+# logic_channel_strip_settings
